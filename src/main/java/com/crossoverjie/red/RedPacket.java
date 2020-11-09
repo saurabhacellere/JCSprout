@@ -42,7 +42,7 @@ public class RedPacket {
     private static final double TIMES = 2.1F;
     //变量定义
     private static int STATUS = 1;
-    private int recursiveCount = 0;
+    private int recursiveCount1 = 0;
 
     public List<Integer> splitRedPacket(int money, int count) throws Exception {
         List<Integer> moneys = new LinkedList<>();
