@@ -21,7 +21,7 @@ public class RedPacket {
      * 生成红包最大值 200人民币
      */
     private static final int MAX_MONEY = 200 * 100;
-
+private int i;
     /**
      * 小于最小值
      */
