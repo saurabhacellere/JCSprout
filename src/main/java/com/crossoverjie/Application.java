@@ -20,7 +20,7 @@ public class Application {
         LOGGER.info("start ok!");
         System.out.println("test commit");
         System.out.println("test commit1");
-
+ System.out.println("test commit1");
     }
 
 }
