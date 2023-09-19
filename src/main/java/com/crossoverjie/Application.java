@@ -19,6 +19,7 @@ public class Application {
         SpringApplication.run(Application.class, args);
         LOGGER.info("start ok!");
         System.out.println("test commit");
+        System.out.println("test commit1");
 
     }
 
