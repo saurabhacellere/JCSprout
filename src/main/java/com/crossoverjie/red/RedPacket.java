@@ -73,7 +73,7 @@ private int i;
         if (count == 1) {
             return totalMoney;
         }
-
+	System.out.println("commit on branch11");
         if (minMoney == maxMoney) {
             return minMoney;
         }
