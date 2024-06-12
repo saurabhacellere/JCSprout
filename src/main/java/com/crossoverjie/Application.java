@@ -18,7 +18,11 @@ public class Application {
     public static void main(String[] args) throws Exception {
         SpringApplication.run(Application.class, args);
         LOGGER.info("start ok!");
-
+        System.out.println("test commit");
+        System.out.println("test commit1");
+                System.out.println("test commit");
+        System.out.println("test commit1");
+ System.out.println("test commit1");
     }
 
 }
